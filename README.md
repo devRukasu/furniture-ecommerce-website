@@ -1,1 +1,1 @@
-![Thumb do Projeto](thumb.PNG)
+![Thumb do Projeto](thumb.png)
